@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/shubbu/coding_stuff/WEB3/projects/sophomore_project1/hardhat-tutorial/contracts/Lock.sol": {
+      "lastModificationDate": 1677493887958,
+      "contentHash": "71406c34586c90d59a9b6540be011cc4",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    },
+    "/Users/shubbu/coding_stuff/WEB3/projects/sophomore_project1/hardhat-tutorial/contracts/Whitelist.sol": {
+      "lastModificationDate": 1677491703941,
+      "contentHash": "b386d9ef8deaeeb2cf3f6e4a409c2c0b",
+      "sourceName": "contracts/Whitelist.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Whitelist"
+      ]
+    }
+  }
+}
